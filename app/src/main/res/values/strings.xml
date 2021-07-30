@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather">Weather</string>
+    <string name="rover_image">Rover Image</string>
+    <string name="rover_id">Rover ID</string>
+</resources>
