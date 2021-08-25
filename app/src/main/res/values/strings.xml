@@ -5,4 +5,5 @@
     <string name="weather">Weather</string>
     <string name="rover_image">Rover Image</string>
     <string name="rover_id">Rover ID</string>
+    <string name="weather_fragment">Weather Fragment</string>
 </resources>
